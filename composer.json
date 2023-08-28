@@ -1,0 +1,15 @@
+{
+  "name": "randll32/mysql2sqlite",
+  "description": "Converting mysql to sqlite laravel package",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "version": "0.1.1",
+  "authors": [
+    {
+      "name": "Дмитрий Замов",
+      "email": "randll32@yandex.ru"
+    }
+  ],
+  "require": {
+  }
+}
