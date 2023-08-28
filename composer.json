@@ -11,6 +11,14 @@
     }
   ],
   "require": {
-    "illuminate/support": "^9"
+    "illuminate/support": "^9",
+    "illuminate/console": "^9"
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "ConvertingToSqlite\\ServiceProvider"
+      ]
+    }
   }
 }
